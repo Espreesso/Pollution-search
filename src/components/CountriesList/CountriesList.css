@@ -1,0 +1,7 @@
+.CountriesList {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 4.4rem 10%;
+  }
